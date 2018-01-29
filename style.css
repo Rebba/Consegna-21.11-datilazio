@@ -1,0 +1,25 @@
+body {
+      font-family: Roboto, sans-serif;
+      font-size: 10px;
+}
+
+.axis path, .axis line {
+      fill: none;
+      stroke: #000;
+      shape-rendering: crispEdges;
+}
+
+.bar {
+      fill: lightblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 14px;
+}
+
+
+
